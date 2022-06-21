@@ -12,16 +12,20 @@
 
 var name
 
-var age
+var height
 
-name=prompt("Enter your Name :","0")
+var country
 
-age=prompt("Enter your Age :","0")
+name=prompt("Polie :","0")
 
-document.write(name+ " is " +age+ " years old")
+height=prompt("1,78 :","0")
+
+country=prompt("Burundi")
+
+document.write(name+ " with" +height+ "height" + "is from" +country)
 
 </SCRIPT>
 
 </BODY>
 
-</HTML
+</HTML>
